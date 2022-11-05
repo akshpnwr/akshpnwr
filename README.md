@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### <h2>About me : </h2>
-An enthusiastic front-end web developer looking forward to explore different opportunities. I'm currently working on React Js and trying to upskill myself by working with different technologies. I love to collaborate with different kinds of people and enjoy working on open source projects.<br> 
+
+I am an enthusiastic front-end web developer looking forward to explore different opportunities. I'm currently working on React Js and trying to upskill myself by working with different technologies. I love to collaborate with different kinds of people and enjoy working on open source projects.<br> 
 
 Here's how you can contact me :
 - <a href="https://www.linkedin.com/in/akash-panwar-27b0141bb/">
